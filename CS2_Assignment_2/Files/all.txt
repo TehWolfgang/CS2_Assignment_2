@@ -1,0 +1,12 @@
+Fraction: 2/3 Double: 0.666667
+
+Fraction: 4/5 Double: 0.8
+
+Fraction: 11/1 Double: 11
+
+Fraction: 3/1 Double: 3
+
+Fraction: 4/67 Double: 0.0597015
+
+Fraction: 1/1 Double: 1
+
